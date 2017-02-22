@@ -1,0 +1,15 @@
+E:\Users\Desktop\Hotel\HotelManagerCommon\bin\Debug\HotelManagerCommon.dll
+E:\Users\Desktop\Hotel\HotelManagerCommon\bin\Debug\HotelManagerCommon.pdb
+E:\Users\Desktop\Hotel\HotelManagerCommon\obj\Debug\HotelManagerCommon.dll
+E:\Users\Desktop\Hotel\HotelManagerCommon\obj\Debug\HotelManagerCommon.pdb
+E:\Users\Desktop\Hotel\HotelManagerCommon\obj\Debug\HotelManagerCommon.csprojResolveAssemblyReference.cache
+C:\Users\swan815\Downloads\Hotel\HotelManagerCommon\bin\Debug\HotelManagerCommon.dll
+C:\Users\swan815\Downloads\Hotel\HotelManagerCommon\bin\Debug\HotelManagerCommon.pdb
+C:\Users\swan815\Downloads\Hotel\HotelManagerCommon\obj\Debug\HotelManagerCommon.csprojResolveAssemblyReference.cache
+C:\Users\swan815\Downloads\Hotel\HotelManagerCommon\obj\Debug\HotelManagerCommon.dll
+C:\Users\swan815\Downloads\Hotel\HotelManagerCommon\obj\Debug\HotelManagerCommon.pdb
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\HotelManagerCommon\bin\Debug\HotelManagerCommon.dll
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\HotelManagerCommon\bin\Debug\HotelManagerCommon.pdb
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\HotelManagerCommon\obj\Debug\HotelManagerCommon.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\HotelManagerCommon\obj\Debug\HotelManagerCommon.dll
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\HotelManagerCommon\obj\Debug\HotelManagerCommon.pdb

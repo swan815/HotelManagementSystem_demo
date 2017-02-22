@@ -1,0 +1,28 @@
+E:\Users\Desktop\Hotel\HotelManagerDAL\bin\Debug\HotelManagerDAL.dll
+E:\Users\Desktop\Hotel\HotelManagerDAL\bin\Debug\HotelManagerDAL.pdb
+E:\Users\Desktop\Hotel\HotelManagerDAL\bin\Debug\HotelManagerModel.dll
+E:\Users\Desktop\Hotel\HotelManagerDAL\bin\Debug\HotelManagerModel.pdb
+E:\Users\Desktop\Hotel\HotelManagerDAL\obj\Debug\HotelManagerDAL.csprojResolveAssemblyReference.cache
+E:\Users\Desktop\Hotel\HotelManagerDAL\obj\Debug\HotelManagerDAL.dll
+E:\Users\Desktop\Hotel\HotelManagerDAL\obj\Debug\HotelManagerDAL.pdb
+C:\Users\swan815\Downloads\Hotel\HotelManagerDAL\bin\Debug\HotelManagerDAL.dll
+C:\Users\swan815\Downloads\Hotel\HotelManagerDAL\bin\Debug\HotelManagerDAL.pdb
+C:\Users\swan815\Downloads\Hotel\HotelManagerDAL\bin\Debug\HotelManagerModel.dll
+C:\Users\swan815\Downloads\Hotel\HotelManagerDAL\bin\Debug\HotelManagerModel.pdb
+C:\Users\swan815\Downloads\Hotel\HotelManagerDAL\obj\Debug\HotelManagerDAL.csprojResolveAssemblyReference.cache
+C:\Users\swan815\Downloads\Hotel\HotelManagerDAL\obj\Debug\HotelManagerDAL.dll
+C:\Users\swan815\Downloads\Hotel\HotelManagerDAL\obj\Debug\HotelManagerDAL.pdb
+C:\Users\Administrator\Desktop\Hotel\HotelManagerDAL\obj\Debug\HotelManagerDAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Hotel\HotelManagerDAL\obj\Debug\HotelManagerDAL.dll
+C:\Users\Administrator\Desktop\Hotel\HotelManagerDAL\obj\Debug\HotelManagerDAL.pdb
+C:\Users\Administrator\Desktop\Hotel\HotelManagerDAL\bin\Debug\HotelManagerDAL.dll
+C:\Users\Administrator\Desktop\Hotel\HotelManagerDAL\bin\Debug\HotelManagerDAL.pdb
+C:\Users\Administrator\Desktop\Hotel\HotelManagerDAL\bin\Debug\HotelManagerModel.dll
+C:\Users\Administrator\Desktop\Hotel\HotelManagerDAL\bin\Debug\HotelManagerModel.pdb
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\HotelManagerDAL\bin\Debug\HotelManagerDAL.dll
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\HotelManagerDAL\bin\Debug\HotelManagerDAL.pdb
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\HotelManagerDAL\bin\Debug\HotelManagerModel.dll
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\HotelManagerDAL\bin\Debug\HotelManagerModel.pdb
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\HotelManagerDAL\obj\Debug\HotelManagerDAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\HotelManagerDAL\obj\Debug\HotelManagerDAL.dll
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\HotelManagerDAL\obj\Debug\HotelManagerDAL.pdb

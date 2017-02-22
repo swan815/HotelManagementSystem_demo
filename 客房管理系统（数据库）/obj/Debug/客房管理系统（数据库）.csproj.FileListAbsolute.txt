@@ -1,0 +1,78 @@
+\\mac\home\documents\visual studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\客房管理系统（数据库）.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\客房管理系统（数据库）.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\客房管理系统（数据库）.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统（数据库）.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统（数据库）.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统（数据库）.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统（数据库）.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.ChangePwd.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.Operation.resources
+\\mac\home\documents\visual studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.SelectEmployee.resources
+\\mac\home\documents\visual studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.Login.resources
+\\mac\home\documents\visual studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.SelectRoom.resources
+\\mac\home\documents\visual studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.AddOrder.resources
+\\mac\home\documents\visual studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.SelectOrder.resources
+\\mac\home\documents\visual studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.CheckIn.resources
+\\mac\home\documents\visual studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.ChangeRoom.resources
+\\mac\home\documents\visual studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.SelectCustomer.resources
+\\mac\home\documents\visual studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.CheckOut.resources
+\\mac\home\documents\visual studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\iTextAsian.dll
+\\mac\home\documents\visual studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\iTextAsianCmaps.dll
+\\mac\home\documents\visual studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\itextsharp.dll
+\\mac\home\documents\visual studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.RoomLabel.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.AddMember.resources
+\\mac\home\documents\visual studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.OperationButton.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\CSkin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\CSkin.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\kfglxt.Form1.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\SaleGoods.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\HotelManagerBLL.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\HotelManagerModel.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\HotelManagerCommon.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\HotelManagerDAL.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\SaleGoods.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\HotelManagerBLL.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\HotelManagerModel.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\HotelManagerCommon.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\HotelManagerDAL.pdb
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\客房管理系统（数据库）.exe.config
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统（数据库）.exe
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统（数据库）.pdb
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统（数据库）.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.AddMember.resources
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.AddOrder.resources
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.ChangePwd.resources
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.ChangeRoom.resources
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.CheckIn.resources
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.CheckOut.resources
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\kfglxt.Form1.resources
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.Login.resources
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.Operation.resources
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.OperationButton.resources
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.Properties.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.RoomLabel.resources
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.SelectCustomer.resources
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.SelectEmployee.resources
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.SelectOrder.resources
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.SelectRoom.resources
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统（数据库）.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\客房管理系统（数据库）.exe
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\客房管理系统（数据库）.pdb
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\iTextAsian.dll
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\iTextAsianCmaps.dll
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\itextsharp.dll
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\SaleGoods.exe
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\HotelManagerBLL.dll
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\HotelManagerModel.dll
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\HotelManagerCommon.dll
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\HotelManagerDAL.dll
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\SaleGoods.pdb
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\CSkin.xml
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\HotelManagerBLL.pdb
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\HotelManagerModel.pdb
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\HotelManagerCommon.pdb
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\bin\Debug\HotelManagerDAL.pdb
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.FrmDish.resources
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.FrmStatistics.resources
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\客房管理系统（数据库）\obj\Debug\客房管理系统_数据库_.FrmLock.resources

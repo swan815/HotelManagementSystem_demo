@@ -1,0 +1,44 @@
+E:\Users\Desktop\Hotel\HotelManagerBLL\bin\Debug\HotelManagerBLL.dll
+E:\Users\Desktop\Hotel\HotelManagerBLL\bin\Debug\HotelManagerBLL.pdb
+E:\Users\Desktop\Hotel\HotelManagerBLL\bin\Debug\HotelManagerCommon.dll
+E:\Users\Desktop\Hotel\HotelManagerBLL\bin\Debug\HotelManagerDAL.dll
+E:\Users\Desktop\Hotel\HotelManagerBLL\bin\Debug\HotelManagerModel.dll
+E:\Users\Desktop\Hotel\HotelManagerBLL\bin\Debug\HotelManagerCommon.pdb
+E:\Users\Desktop\Hotel\HotelManagerBLL\bin\Debug\HotelManagerDAL.pdb
+E:\Users\Desktop\Hotel\HotelManagerBLL\bin\Debug\HotelManagerModel.pdb
+E:\Users\Desktop\Hotel\HotelManagerBLL\obj\Debug\HotelManagerBLL.csprojResolveAssemblyReference.cache
+E:\Users\Desktop\Hotel\HotelManagerBLL\obj\Debug\HotelManagerBLL.dll
+E:\Users\Desktop\Hotel\HotelManagerBLL\obj\Debug\HotelManagerBLL.pdb
+C:\Users\swan815\Downloads\Hotel\HotelManagerBLL\bin\Debug\HotelManagerBLL.dll
+C:\Users\swan815\Downloads\Hotel\HotelManagerBLL\bin\Debug\HotelManagerBLL.pdb
+C:\Users\swan815\Downloads\Hotel\HotelManagerBLL\bin\Debug\HotelManagerCommon.dll
+C:\Users\swan815\Downloads\Hotel\HotelManagerBLL\bin\Debug\HotelManagerDAL.dll
+C:\Users\swan815\Downloads\Hotel\HotelManagerBLL\bin\Debug\HotelManagerModel.dll
+C:\Users\swan815\Downloads\Hotel\HotelManagerBLL\bin\Debug\HotelManagerCommon.pdb
+C:\Users\swan815\Downloads\Hotel\HotelManagerBLL\bin\Debug\HotelManagerDAL.pdb
+C:\Users\swan815\Downloads\Hotel\HotelManagerBLL\bin\Debug\HotelManagerModel.pdb
+C:\Users\swan815\Downloads\Hotel\HotelManagerBLL\obj\Debug\HotelManagerBLL.csprojResolveAssemblyReference.cache
+C:\Users\swan815\Downloads\Hotel\HotelManagerBLL\obj\Debug\HotelManagerBLL.dll
+C:\Users\swan815\Downloads\Hotel\HotelManagerBLL\obj\Debug\HotelManagerBLL.pdb
+C:\Users\Administrator\Desktop\Hotel\HotelManagerBLL\bin\Debug\HotelManagerBLL.dll
+C:\Users\Administrator\Desktop\Hotel\HotelManagerBLL\bin\Debug\HotelManagerBLL.pdb
+C:\Users\Administrator\Desktop\Hotel\HotelManagerBLL\bin\Debug\HotelManagerCommon.dll
+C:\Users\Administrator\Desktop\Hotel\HotelManagerBLL\bin\Debug\HotelManagerDAL.dll
+C:\Users\Administrator\Desktop\Hotel\HotelManagerBLL\bin\Debug\HotelManagerModel.dll
+C:\Users\Administrator\Desktop\Hotel\HotelManagerBLL\bin\Debug\HotelManagerCommon.pdb
+C:\Users\Administrator\Desktop\Hotel\HotelManagerBLL\bin\Debug\HotelManagerDAL.pdb
+C:\Users\Administrator\Desktop\Hotel\HotelManagerBLL\bin\Debug\HotelManagerModel.pdb
+C:\Users\Administrator\Desktop\Hotel\HotelManagerBLL\obj\Debug\HotelManagerBLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Hotel\HotelManagerBLL\obj\Debug\HotelManagerBLL.dll
+C:\Users\Administrator\Desktop\Hotel\HotelManagerBLL\obj\Debug\HotelManagerBLL.pdb
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\HotelManagerBLL\bin\Debug\HotelManagerBLL.dll
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\HotelManagerBLL\bin\Debug\HotelManagerBLL.pdb
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\HotelManagerBLL\bin\Debug\HotelManagerCommon.dll
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\HotelManagerBLL\bin\Debug\HotelManagerDAL.dll
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\HotelManagerBLL\bin\Debug\HotelManagerModel.dll
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\HotelManagerBLL\bin\Debug\HotelManagerCommon.pdb
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\HotelManagerBLL\bin\Debug\HotelManagerDAL.pdb
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\HotelManagerBLL\bin\Debug\HotelManagerModel.pdb
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\HotelManagerBLL\obj\Debug\HotelManagerBLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\HotelManagerBLL\obj\Debug\HotelManagerBLL.dll
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\HotelManagerBLL\obj\Debug\HotelManagerBLL.pdb

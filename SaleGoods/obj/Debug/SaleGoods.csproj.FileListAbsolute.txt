@@ -1,0 +1,68 @@
+C:\Users\swan815\Desktop\练习题\SaleGoods\SaleGoods\bin\Debug\SaleGoods.exe.config
+C:\Users\swan815\Desktop\练习题\SaleGoods\SaleGoods\bin\Debug\SaleGoods.exe
+C:\Users\swan815\Desktop\练习题\SaleGoods\SaleGoods\bin\Debug\SaleGoods.pdb
+C:\Users\swan815\Desktop\练习题\SaleGoods\SaleGoods\bin\Debug\HotelManagerBLL.dll
+C:\Users\swan815\Desktop\练习题\SaleGoods\SaleGoods\bin\Debug\HotelManagerCommon.dll
+C:\Users\swan815\Desktop\练习题\SaleGoods\SaleGoods\bin\Debug\HotelManagerDAL.dll
+C:\Users\swan815\Desktop\练习题\SaleGoods\SaleGoods\bin\Debug\HotelManagerModel.dll
+C:\Users\swan815\Desktop\练习题\SaleGoods\SaleGoods\bin\Debug\HotelManagerBLL.pdb
+C:\Users\swan815\Desktop\练习题\SaleGoods\SaleGoods\bin\Debug\HotelManagerCommon.pdb
+C:\Users\swan815\Desktop\练习题\SaleGoods\SaleGoods\bin\Debug\HotelManagerDAL.pdb
+C:\Users\swan815\Desktop\练习题\SaleGoods\SaleGoods\bin\Debug\HotelManagerModel.pdb
+C:\Users\swan815\Desktop\练习题\SaleGoods\SaleGoods\obj\Debug\SaleGoods.csprojResolveAssemblyReference.cache
+C:\Users\swan815\Desktop\练习题\SaleGoods\SaleGoods\obj\Debug\SaleGoods.Form1.resources
+C:\Users\swan815\Desktop\练习题\SaleGoods\SaleGoods\obj\Debug\SaleGoods.Properties.Resources.resources
+C:\Users\swan815\Desktop\练习题\SaleGoods\SaleGoods\obj\Debug\SaleGoods.csproj.GenerateResource.Cache
+C:\Users\swan815\Desktop\练习题\SaleGoods\SaleGoods\obj\Debug\SaleGoods.exe
+C:\Users\swan815\Desktop\练习题\SaleGoods\SaleGoods\obj\Debug\SaleGoods.pdb
+\\Mac\Home\Downloads\SaleGoods\SaleGoods\bin\Debug\SaleGoods.exe.config
+\\Mac\Home\Downloads\SaleGoods\SaleGoods\obj\Debug\SaleGoods.exe
+\\Mac\Home\Downloads\SaleGoods\SaleGoods\obj\Debug\SaleGoods.pdb
+\\Mac\Home\Downloads\SaleGoods\SaleGoods\obj\Debug\SaleGoods.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\SaleGoods\SaleGoods\obj\Debug\SaleGoods.Form1.resources
+\\Mac\Home\Downloads\SaleGoods\SaleGoods\obj\Debug\SaleGoods.Properties.Resources.resources
+\\Mac\Home\Downloads\SaleGoods\SaleGoods\obj\Debug\SaleGoods.csproj.GenerateResource.Cache
+\\Mac\Home\Downloads\SaleGoods\SaleGoods\bin\Debug\SaleGoods.exe
+\\Mac\Home\Downloads\SaleGoods\SaleGoods\bin\Debug\SaleGoods.pdb
+\\Mac\Home\Downloads\SaleGoods\SaleGoods\bin\Debug\HotelManagerBLL.dll
+\\Mac\Home\Downloads\SaleGoods\SaleGoods\bin\Debug\HotelManagerCommon.dll
+\\Mac\Home\Downloads\SaleGoods\SaleGoods\bin\Debug\HotelManagerDAL.dll
+\\Mac\Home\Downloads\SaleGoods\SaleGoods\bin\Debug\HotelManagerModel.dll
+\\Mac\Home\Downloads\SaleGoods\SaleGoods\bin\Debug\HotelManagerBLL.pdb
+\\Mac\Home\Downloads\SaleGoods\SaleGoods\bin\Debug\HotelManagerCommon.pdb
+\\Mac\Home\Downloads\SaleGoods\SaleGoods\bin\Debug\HotelManagerDAL.pdb
+\\Mac\Home\Downloads\SaleGoods\SaleGoods\bin\Debug\HotelManagerModel.pdb
+\\Mac\Home\Desktop\SaleGoods\SaleGoods\bin\Debug\SaleGoods.exe.config
+\\Mac\Home\Desktop\SaleGoods\SaleGoods\bin\Debug\SaleGoods.exe
+\\Mac\Home\Desktop\SaleGoods\SaleGoods\bin\Debug\SaleGoods.pdb
+\\Mac\Home\Desktop\SaleGoods\SaleGoods\bin\Debug\HotelManagerBLL.dll
+\\Mac\Home\Desktop\SaleGoods\SaleGoods\bin\Debug\HotelManagerCommon.dll
+\\Mac\Home\Desktop\SaleGoods\SaleGoods\bin\Debug\HotelManagerDAL.dll
+\\Mac\Home\Desktop\SaleGoods\SaleGoods\bin\Debug\HotelManagerModel.dll
+\\Mac\Home\Desktop\SaleGoods\SaleGoods\bin\Debug\HotelManagerBLL.pdb
+\\Mac\Home\Desktop\SaleGoods\SaleGoods\bin\Debug\HotelManagerCommon.pdb
+\\Mac\Home\Desktop\SaleGoods\SaleGoods\bin\Debug\HotelManagerDAL.pdb
+\\Mac\Home\Desktop\SaleGoods\SaleGoods\bin\Debug\HotelManagerModel.pdb
+\\Mac\Home\Desktop\SaleGoods\SaleGoods\obj\Debug\SaleGoods.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\SaleGoods\SaleGoods\obj\Debug\SaleGoods.SellGoods.resources
+\\Mac\Home\Desktop\SaleGoods\SaleGoods\obj\Debug\SaleGoods.Properties.Resources.resources
+\\Mac\Home\Desktop\SaleGoods\SaleGoods\obj\Debug\SaleGoods.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\SaleGoods\SaleGoods\obj\Debug\SaleGoods.exe
+\\Mac\Home\Desktop\SaleGoods\SaleGoods\obj\Debug\SaleGoods.pdb
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\SaleGoods\bin\Debug\SaleGoods.exe.config
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\SaleGoods\bin\Debug\SaleGoods.exe
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\SaleGoods\bin\Debug\SaleGoods.pdb
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\SaleGoods\bin\Debug\HotelManagerBLL.dll
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\SaleGoods\bin\Debug\HotelManagerCommon.dll
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\SaleGoods\bin\Debug\HotelManagerDAL.dll
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\SaleGoods\bin\Debug\HotelManagerModel.dll
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\SaleGoods\bin\Debug\HotelManagerBLL.pdb
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\SaleGoods\bin\Debug\HotelManagerCommon.pdb
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\SaleGoods\bin\Debug\HotelManagerDAL.pdb
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\SaleGoods\bin\Debug\HotelManagerModel.pdb
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\SaleGoods\obj\Debug\SaleGoods.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\SaleGoods\obj\Debug\SaleGoods.SellGoods.resources
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\SaleGoods\obj\Debug\SaleGoods.Properties.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\SaleGoods\obj\Debug\SaleGoods.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\SaleGoods\obj\Debug\SaleGoods.exe
+C:\Users\Administrator\Desktop\新建文件夹\新建文件夹 (2)\客房管理系统（数据库）\SaleGoods\obj\Debug\SaleGoods.pdb

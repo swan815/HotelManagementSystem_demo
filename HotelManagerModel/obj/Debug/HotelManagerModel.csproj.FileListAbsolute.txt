@@ -1,0 +1,10 @@
+E:\Users\Desktop\Hotel\HotelManagerModel\bin\Debug\HotelManagerModel.dll
+E:\Users\Desktop\Hotel\HotelManagerModel\bin\Debug\HotelManagerModel.pdb
+E:\Users\Desktop\Hotel\HotelManagerModel\obj\Debug\HotelManagerModel.dll
+E:\Users\Desktop\Hotel\HotelManagerModel\obj\Debug\HotelManagerModel.pdb
+E:\Users\Desktop\Hotel\HotelManagerModel\obj\Debug\HotelManagerModel.csprojResolveAssemblyReference.cache
+C:\Users\swan815\Downloads\Hotel\HotelManagerModel\bin\Debug\HotelManagerModel.dll
+C:\Users\swan815\Downloads\Hotel\HotelManagerModel\bin\Debug\HotelManagerModel.pdb
+C:\Users\swan815\Downloads\Hotel\HotelManagerModel\obj\Debug\HotelManagerModel.csprojResolveAssemblyReference.cache
+C:\Users\swan815\Downloads\Hotel\HotelManagerModel\obj\Debug\HotelManagerModel.dll
+C:\Users\swan815\Downloads\Hotel\HotelManagerModel\obj\Debug\HotelManagerModel.pdb
